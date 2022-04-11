@@ -2,12 +2,6 @@ Flask
 pandas
 torch
 transformers
-certifi
-Click
 gunicorn
-itsdangerous
-Jinja2
-MarkupSafe
 python-dotenv
-Werkzeug
-wincertstore
+
